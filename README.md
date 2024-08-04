@@ -53,10 +53,7 @@ The Marketing Data Analysis project involves examining customer interaction data
 In the Pricing Data Analysis project, I analyze historical pricing data to understand price trends and compare them with competitor prices. The analysis also includes studying the elasticity of demand to make informed pricing decisions.
 
 ## Technologies Used
-- SQL (PostgreSQL, MySQL)
-- Data Visualization (Tableau, Power BI)
-- Python (for data cleaning and preprocessing)
-- Excel (for preliminary analysis and reporting)
+- SQL (MySQL)
 
 ## Contact
 Feel free to reach out to me for any inquiries or collaboration opportunities.
